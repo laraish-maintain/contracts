@@ -1,5 +1,5 @@
 {
-    "name": "laraish/contracts",
+    "name": "laraish-maintain/contracts",
     "description": "The Laraish Contracts package, updated fork.",
     "keywords": [
         "framework",
@@ -7,15 +7,15 @@
         "wordpress"
     ],
     "license": "MIT",
-    "homepage": "https://github.com/thanasisxan/laraish-contracts",
+    "homepage": "https://github.com/laraish-maintain/contracts",
     "support": {
-        "issues": "https://github.com/thanasisxan/laraish-contracts/issues",
-        "source": "https://github.com/thanasisxan/laraish-contracts"
+        "issues": "https://github.com/laraish-maintain/contracts/issues",
+        "source": "https://github.com/laraish-maintain/contracts"
     },
     "authors": [
         {
-            "name": "yaquawa",
-            "email": "yaquawa@gmail.com"
+            "name": "thanasisxan",
+            "email": "thanasis.xanthop@gmail.com"
         }
     ],
     "require": {
